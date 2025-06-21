@@ -1,0 +1,25 @@
+2025-06-21 18:15:11 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:15:11 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:22:55 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:22:55 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:29:28 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:29:28 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:42:14 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:42:14 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:43:26 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:43:26 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:43:35 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:43:35 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:43:55 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:43:55 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:46:13 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:46:13 error: 500 - Could not store battery data - /api/battery/data - POST - ::ffff:127.0.0.1
+2025-06-21 18:50:50 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:50:50 error: 500 - Could not store battery data - /api/battery/data - POST - ::1
+2025-06-21 18:59:46 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 18:59:46 error: 500 - Could not store battery data - /api/battery/data - POST - ::1
+2025-06-21 19:04:57 error: Error storing battery data: Cannot read properties of undefined (reading 'searchParams') Cannot read properties of undefined (reading 'searchParams')
+2025-06-21 19:04:57 error: 500 - Could not store battery data - /api/battery/data - POST - ::1
+2025-06-21 19:09:07 error: Error storing battery data: permission denied for table battery_data permission denied for table battery_data
+2025-06-21 19:09:07 error: 500 - Could not store battery data - /api/battery/data - POST - ::1
+2025-06-21 20:08:10 error: 404 - Not Found - /api/battery/data/BATT001/range?start=2025-06-21T12:00:00Z&end=2025-06-21T14:00:00Z - /api/battery/data/BATT001/range?start=2025-06-21T12:00:00Z&end=2025-06-21T14:00:00Z - GET - ::1
