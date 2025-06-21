@@ -5,3 +5,7 @@ package-lock.json
 .env
 
 config
+
+combined.log
+
+error.log
